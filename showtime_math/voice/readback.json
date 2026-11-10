@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "skipped": "the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+  "lines": [],
+  "suspects": [],
+  "checked": 0,
+  "summary": "read-back skipped: the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+  "vo_hash": "dd571449937b871e7c5e"
+}

@@ -1,0 +1,80 @@
+{
+  "source": "05-win.wav",
+  "duration": 5.31,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Great",
+      "start": 0.02,
+      "end": 0.297,
+      "type": "word"
+    },
+    {
+      "text": "job!",
+      "start": 0.352,
+      "end": 0.837,
+      "type": "word"
+    },
+    {
+      "text": "Seven",
+      "start": 1.11,
+      "end": 1.47,
+      "type": "word"
+    },
+    {
+      "text": "plus",
+      "start": 1.525,
+      "end": 1.763,
+      "type": "word"
+    },
+    {
+      "text": "five",
+      "start": 1.818,
+      "end": 2.098,
+      "type": "word"
+    },
+    {
+      "text": "equals",
+      "start": 2.143,
+      "end": 2.497,
+      "type": "word"
+    },
+    {
+      "text": "twelve!",
+      "start": 2.53,
+      "end": 3.09,
+      "type": "word"
+    },
+    {
+      "text": "Look",
+      "start": 3.42,
+      "end": 3.616,
+      "type": "word"
+    },
+    {
+      "text": "at",
+      "start": 3.664,
+      "end": 3.771,
+      "type": "word"
+    },
+    {
+      "text": "all",
+      "start": 3.827,
+      "end": 4.011,
+      "type": "word"
+    },
+    {
+      "text": "twelve",
+      "start": 4.067,
+      "end": 4.354,
+      "type": "word"
+    },
+    {
+      "text": "apples.",
+      "start": 4.411,
+      "end": 4.91,
+      "type": "word"
+    }
+  ]
+}

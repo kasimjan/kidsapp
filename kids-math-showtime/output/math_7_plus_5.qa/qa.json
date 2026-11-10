@@ -1,0 +1,480 @@
+{
+  "video": "/Users/assimov/Desktop/kidsapp/kids-math-showtime/output/math_7_plus_5.mp4",
+  "project": null,
+  "expect": null,
+  "expect_source": null,
+  "out_dir": "/Users/assimov/Desktop/kidsapp/kids-math-showtime/output/math_7_plus_5.qa",
+  "findings": [
+    {
+      "rule": "loudness",
+      "severity": "WARN",
+      "message": "integrated loudness -16.0 LUFS is -2.0 LU off the -14 LUFS target",
+      "fix": "re-master to -14 LUFS"
+    },
+    {
+      "rule": "phone_unverified",
+      "severity": "INFO",
+      "message": "the phone check could not verify: type size, reading time and UI zones need `showtime check <project>` (no report with a phone block; no project found for this video)",
+      "fix": "run showtime check <project> (at this video's size), then qa again"
+    }
+  ],
+  "passed": [
+    "file: h264 High, yuv420p, 1920x1080 30fps, faststart, BT.709",
+    "no silent gaps (audio from 0.00s to 53.05s)",
+    "frame 0 has picture (poster or hook)",
+    "no black stretches",
+    "no frozen stretches over 2.5s",
+    "frame 0 flows into frame 1 (no poster flash)",
+    "no attribution required (no CC-BY items in the mix report or asset sidecars)"
+  ],
+  "target": null,
+  "probe": {
+    "duration": 54.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "vcodec": "h264",
+    "pix_fmt": "yuv420p",
+    "profile": "High",
+    "color": {
+      "space": "bt709",
+      "primaries": "bt709",
+      "transfer": "bt709",
+      "range": "tv"
+    },
+    "faststart": true,
+    "size_bytes": 6862275,
+    "bit_rate": 1016633,
+    "audio": [
+      {
+        "codec": "aac",
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": 54.0
+      }
+    ]
+  },
+  "loudness": {
+    "integrated_lufs": -15.99,
+    "true_peak_dbtp": -4.49,
+    "lra": 1.98,
+    "sample_peak_dbfs": -4.5,
+    "target_lufs": -14.0,
+    "ceiling_dbtp": -1.0,
+    "mix": null,
+    "clipping": {
+      "runs": 0,
+      "samples": 0,
+      "times": []
+    },
+    "first_sound": 0.0,
+    "last_sound": 53.050000000000004,
+    "silent_gaps": []
+  },
+  "detect": {
+    "black": [],
+    "freeze": [
+      [
+        0.0,
+        0.666667
+      ],
+      [
+        1.6,
+        3.133333
+      ],
+      [
+        3.5,
+        4.3
+      ],
+      [
+        4.3,
+        4.833333
+      ],
+      [
+        6.333333,
+        7.733333
+      ],
+      [
+        12.366667,
+        13.766667
+      ],
+      [
+        15.1,
+        16.8
+      ],
+      [
+        17.633333,
+        18.233333
+      ],
+      [
+        19.333333,
+        20.666667
+      ],
+      [
+        21.8,
+        23.133333
+      ],
+      [
+        24.1,
+        24.633333
+      ],
+      [
+        25.266667,
+        25.766667
+      ],
+      [
+        26.7,
+        27.9
+      ],
+      [
+        28.466667,
+        28.966667
+      ],
+      [
+        30.466667,
+        32.266667
+      ],
+      [
+        33.733333,
+        34.5
+      ],
+      [
+        34.5,
+        35.1
+      ],
+      [
+        35.1,
+        35.9
+      ],
+      [
+        35.9,
+        36.8
+      ],
+      [
+        37.9,
+        38.8
+      ],
+      [
+        40.133333,
+        40.766667
+      ],
+      [
+        40.766667,
+        42.966667
+      ],
+      [
+        44.233333,
+        45.2
+      ],
+      [
+        45.2,
+        45.7
+      ],
+      [
+        45.7,
+        46.366667
+      ],
+      [
+        46.766667,
+        48.3
+      ],
+      [
+        48.6,
+        49.4
+      ],
+      [
+        49.7,
+        50.633333
+      ],
+      [
+        51.033333,
+        51.7
+      ],
+      [
+        53.133333,
+        54.0
+      ]
+    ]
+  },
+  "floor": {
+    "frames": 20,
+    "player_chrome": 0,
+    "soft_footage": {
+      "frames": 0,
+      "ratio": 1.284
+    },
+    "caption_boxes": 0,
+    "empty_borders": 0
+  },
+  "showreel": {
+    "on": false,
+    "source": "default",
+    "detail": ""
+  },
+  "rhythm": {
+    "picture": {
+      "frames": 1620,
+      "hard_cuts": [],
+      "layout_changes": [
+        {
+          "t": 6.1,
+          "kind": "fast",
+          "seconds": 0.17,
+          "corr": 0.25
+        },
+        {
+          "t": 7.933,
+          "kind": "fast",
+          "seconds": 0.0,
+          "corr": 0.32
+        },
+        {
+          "t": 14.033,
+          "kind": "fast",
+          "seconds": 0.5,
+          "corr": 0.47
+        },
+        {
+          "t": 23.467,
+          "kind": "fast",
+          "seconds": 0.53,
+          "corr": 0.38
+        },
+        {
+          "t": 33.467,
+          "kind": "fast",
+          "seconds": 0.5,
+          "corr": 0.37
+        },
+        {
+          "t": 39.067,
+          "kind": "move",
+          "seconds": 0.63,
+          "corr": -0.02
+        }
+      ],
+      "n_layouts": 7,
+      "moving_fraction": 0.203,
+      "n_hard_cuts": 0,
+      "cuts_per_s": 0.0,
+      "shots": [
+        54.0
+      ],
+      "shot_mean_s": 54.0,
+      "shot_median_s": 54.0,
+      "still_fraction": 0.796,
+      "longest_still_s": 6.07,
+      "longest_still_at": 40.2,
+      "flashes": {
+        "max_per_s": 0,
+        "at": null,
+        "transitions": 0
+      }
+    },
+    "music": {
+      "rms_db_per_half_s": [
+        -15.8,
+        -18.2,
+        -22.0,
+        -29.7,
+        -16.7,
+        -18.8,
+        -17.9,
+        -22.9,
+        -22.9,
+        -17.7,
+        -57.0,
+        -21.5,
+        -18.8,
+        -17.0,
+        -17.7,
+        -20.3,
+        -27.7,
+        -21.2,
+        -18.4,
+        -27.9,
+        -15.3,
+        -18.6,
+        -19.4,
+        -19.2,
+        -25.1,
+        -20.5,
+        -78.8,
+        -17.1,
+        -17.2,
+        -18.9,
+        -18.7,
+        -28.5,
+        -21.0,
+        -14.8,
+        -20.7,
+        -23.5,
+        -18.7,
+        -18.0,
+        -18.9,
+        -21.2,
+        -41.2,
+        -16.2,
+        -18.0,
+        -18.5,
+        -22.9,
+        -80.1,
+        -17.6,
+        -16.6,
+        -16.3,
+        -19.2,
+        -22.9,
+        -18.6,
+        -18.1,
+        -20.3,
+        -32.3,
+        -16.3,
+        -18.0,
+        -20.0,
+        -18.4,
+        -21.7,
+        -32.4,
+        -16.2,
+        -18.4,
+        -20.9,
+        -22.4,
+        -81.3,
+        -18.9,
+        -18.4,
+        -20.0,
+        -18.0,
+        -19.3,
+        -20.1,
+        -33.0,
+        -16.7,
+        -19.0,
+        -23.3,
+        -72.2,
+        -20.2,
+        -16.3,
+        -17.7,
+        -26.1,
+        -34.5,
+        -16.9,
+        -19.3,
+        -19.3,
+        -19.1,
+        -17.2,
+        -20.4,
+        -20.9,
+        -57.9,
+        -17.4,
+        -18.0,
+        -19.1,
+        -18.8,
+        -17.9,
+        -19.1,
+        -18.5,
+        -22.3,
+        -23.8,
+        -15.3,
+        -18.4,
+        -16.4,
+        -20.7,
+        -17.4,
+        -18.6,
+        -18.5,
+        -40.8,
+        -120.0
+      ],
+      "range_db": 9.41,
+      "mean_db": -20.47
+    },
+    "dead_stops": [],
+    "launch": false,
+    "showreel": false,
+    "summary": "7 layout(s): 1 move(s), 5 fast, 0 cut(s), 0 hard cut(s), median shot 54.0s, longest still 6.1s, music dynamics 9.4 dB"
+  },
+  "hearing": {
+    "thresholds": {
+      "voice_over_bed_min_db": 8.0,
+      "quiet_stretch_s": 2.0,
+      "quiet_under_lu": 20.0,
+      "level_jump_lu": 6.0,
+      "abrupt_end_db": 10.0,
+      "fast_wpm": 200.0,
+      "slow_wpm": 100.0,
+      "sfx_loud_lu": 10.0,
+      "speaker_gap_lu": 10.0,
+      "speaker_gap_fail_lu": 18.0
+    },
+    "duration": 54.0,
+    "lines_source": null,
+    "voice_source": null,
+    "voice_note": null,
+    "fit": null,
+    "integrated_lufs": -15.99,
+    "true_peak_dbtp": -4.49,
+    "lra": 1.98,
+    "sample_peak_dbfs": -4.5,
+    "target_lufs": -14.0,
+    "ceiling_dbtp": -1.0,
+    "clipping": {
+      "runs": 0,
+      "samples": 0,
+      "times": []
+    },
+    "voice_to_music_db": null,
+    "speaker": {
+      "integrated_lufs": -15.99,
+      "above_300_lufs": -19.33,
+      "gap_300_lu": 3.34,
+      "above_1k_lufs": -23.75,
+      "gap_1k_lu": 7.76,
+      "mix": null,
+      "showtime_mix": false
+    },
+    "lines": [],
+    "voice_pauses": [],
+    "quiet": [],
+    "scenes": [
+      {
+        "name": "scene 1",
+        "start": 0.0,
+        "end": 54.0,
+        "lufs": -16.3,
+        "short_term_max": -14.8,
+        "speech_share": 0.0
+      }
+    ],
+    "cuts": [],
+    "sfx": [],
+    "ending": {
+      "music": [],
+      "abrupt": false,
+      "measured_on": "the programme",
+      "tail_lufs": -120.0,
+      "body_lufs": -15.9
+    },
+    "readback": null,
+    "summary": "0 quiet stretches, 0 level jumps at cuts (> 6 LU), ending fades or ends, on a phone speaker: -19.3 LUFS, 3.3 LU under the mix",
+    "mix_report": null
+  },
+  "captions": [],
+  "phone": {
+    "verdict": "PARTIAL",
+    "line": "phone check: PARTIAL (type size, reading time and UI zones need `showtime check <project>` (no report with a phone block; no project found for this video))",
+    "items": [],
+    "captions": null,
+    "check_report": null,
+    "stale": false,
+    "notes": [
+      "type size, reading time and UI zones need `showtime check <project>` (no report with a phone block; no project found for this video)"
+    ]
+  },
+  "sheet": "/Users/assimov/Desktop/kidsapp/kids-math-showtime/output/math_7_plus_5.qa/sheet.jpg",
+  "verdict": "WARN",
+  "summary": {
+    "fail": 0,
+    "warn": 1,
+    "info": 1,
+    "passed": 7
+  },
+  "seconds": 14.96,
+  "created": "2026-10-26T19:03:21"
+}

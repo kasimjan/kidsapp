@@ -1,0 +1,435 @@
+{
+  "source": "vo.wav",
+  "duration": 23.589,
+  "language": "en",
+  "model": "showtime-voice",
+  "words": [
+    {
+      "text": "Mia",
+      "start": 0.03,
+      "end": 0.322,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "has",
+      "start": 0.383,
+      "end": 0.543,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "seven",
+      "start": 0.626,
+      "end": 0.907,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "apples.",
+      "start": 0.967,
+      "end": 1.46,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "She",
+      "start": 1.74,
+      "end": 1.868,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "gives",
+      "start": 1.902,
+      "end": 2.122,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "three",
+      "start": 2.18,
+      "end": 2.412,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "apples",
+      "start": 2.475,
+      "end": 2.8,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "to",
+      "start": 2.81,
+      "end": 2.906,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "her",
+      "start": 2.936,
+      "end": 3.019,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "friend.",
+      "start": 3.078,
+      "end": 3.44,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "How",
+      "start": 3.74,
+      "end": 3.912,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "many",
+      "start": 3.938,
+      "end": 4.122,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "apples",
+      "start": 4.198,
+      "end": 4.524,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "does",
+      "start": 4.572,
+      "end": 4.713,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "Mia",
+      "start": 4.76,
+      "end": 4.924,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "have",
+      "start": 4.971,
+      "end": 5.119,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "left?",
+      "start": 5.169,
+      "end": 5.539,
+      "type": "word",
+      "line": "question"
+    },
+    {
+      "text": "Let's",
+      "start": 6.349,
+      "end": 6.561,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "count",
+      "start": 6.629,
+      "end": 6.797,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "Mia's",
+      "start": 6.83,
+      "end": 7.041,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "apples.",
+      "start": 7.102,
+      "end": 7.609,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "One,",
+      "start": 7.899,
+      "end": 8.08,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "two,",
+      "start": 8.168,
+      "end": 8.323,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "three,",
+      "start": 8.398,
+      "end": 8.603,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "four,",
+      "start": 8.68,
+      "end": 8.896,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "five,",
+      "start": 8.973,
+      "end": 9.254,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "six,",
+      "start": 9.329,
+      "end": 9.529,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "seven.",
+      "start": 9.722,
+      "end": 10.146,
+      "type": "word",
+      "line": "counting"
+    },
+    {
+      "text": "Now",
+      "start": 10.927,
+      "end": 11.148,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "Mia",
+      "start": 11.197,
+      "end": 11.386,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "gives",
+      "start": 11.435,
+      "end": 11.638,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "three",
+      "start": 11.717,
+      "end": 11.887,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "apples",
+      "start": 11.937,
+      "end": 12.233,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "away.",
+      "start": 12.271,
+      "end": 12.677,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "One,",
+      "start": 12.937,
+      "end": 13.143,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "two,",
+      "start": 13.235,
+      "end": 13.402,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "three.",
+      "start": 13.481,
+      "end": 13.824,
+      "type": "word",
+      "line": "give"
+    },
+    {
+      "text": "Look",
+      "start": 14.603,
+      "end": 14.745,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "at",
+      "start": 14.771,
+      "end": 14.821,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "the",
+      "start": 14.846,
+      "end": 14.93,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "apples",
+      "start": 15.004,
+      "end": 15.321,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "that",
+      "start": 15.361,
+      "end": 15.491,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "stay.",
+      "start": 15.541,
+      "end": 15.923,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "One,",
+      "start": 16.183,
+      "end": 16.399,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "two,",
+      "start": 16.504,
+      "end": 16.7,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "three,",
+      "start": 16.779,
+      "end": 16.96,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "four.",
+      "start": 17.047,
+      "end": 17.433,
+      "type": "word",
+      "line": "keep"
+    },
+    {
+      "text": "Seven",
+      "start": 18.195,
+      "end": 18.548,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "take",
+      "start": 18.597,
+      "end": 18.751,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "away",
+      "start": 18.78,
+      "end": 18.998,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "three",
+      "start": 19.07,
+      "end": 19.252,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "is",
+      "start": 19.286,
+      "end": 19.385,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "four.",
+      "start": 19.435,
+      "end": 19.795,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "Mia",
+      "start": 20.045,
+      "end": 20.274,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "has",
+      "start": 20.323,
+      "end": 20.464,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "four",
+      "start": 20.531,
+      "end": 20.736,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "apples",
+      "start": 20.793,
+      "end": 21.11,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "left.",
+      "start": 21.159,
+      "end": 21.575,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "Great",
+      "start": 21.885,
+      "end": 22.076,
+      "type": "word",
+      "line": "answer"
+    },
+    {
+      "text": "job!",
+      "start": 22.126,
+      "end": 22.58,
+      "type": "word",
+      "line": "answer"
+    }
+  ]
+}

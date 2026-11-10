@@ -1,0 +1,68 @@
+{
+  "source": "04-stay.wav",
+  "duration": 3.231,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Look",
+      "start": 0.03,
+      "end": 0.172,
+      "type": "word"
+    },
+    {
+      "text": "at",
+      "start": 0.198,
+      "end": 0.248,
+      "type": "word"
+    },
+    {
+      "text": "the",
+      "start": 0.273,
+      "end": 0.357,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 0.431,
+      "end": 0.748,
+      "type": "word"
+    },
+    {
+      "text": "that",
+      "start": 0.788,
+      "end": 0.918,
+      "type": "word"
+    },
+    {
+      "text": "stay.",
+      "start": 0.968,
+      "end": 1.35,
+      "type": "word"
+    },
+    {
+      "text": "One,",
+      "start": 1.61,
+      "end": 1.826,
+      "type": "word"
+    },
+    {
+      "text": "two,",
+      "start": 1.931,
+      "end": 2.127,
+      "type": "word"
+    },
+    {
+      "text": "three,",
+      "start": 2.206,
+      "end": 2.387,
+      "type": "word"
+    },
+    {
+      "text": "four.",
+      "start": 2.474,
+      "end": 2.86,
+      "type": "word"
+    }
+  ]
+}

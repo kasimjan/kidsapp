@@ -1,0 +1,146 @@
+{
+  "source": "03-fives.wav",
+  "duration": 9.071,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Now,",
+      "start": 0.05,
+      "end": 0.403,
+      "type": "word"
+    },
+    {
+      "text": "let's",
+      "start": 0.483,
+      "end": 0.699,
+      "type": "word"
+    },
+    {
+      "text": "add",
+      "start": 0.752,
+      "end": 0.956,
+      "type": "word"
+    },
+    {
+      "text": "five",
+      "start": 1.031,
+      "end": 1.319,
+      "type": "word"
+    },
+    {
+      "text": "more",
+      "start": 1.364,
+      "end": 1.539,
+      "type": "word"
+    },
+    {
+      "text": "apples.",
+      "start": 1.596,
+      "end": 2.16,
+      "type": "word"
+    },
+    {
+      "text": "Here",
+      "start": 2.55,
+      "end": 2.769,
+      "type": "word"
+    },
+    {
+      "text": "come",
+      "start": 2.8,
+      "end": 2.954,
+      "type": "word"
+    },
+    {
+      "text": "the",
+      "start": 2.983,
+      "end": 3.039,
+      "type": "word"
+    },
+    {
+      "text": "green",
+      "start": 3.095,
+      "end": 3.358,
+      "type": "word"
+    },
+    {
+      "text": "ones!",
+      "start": 3.406,
+      "end": 3.82,
+      "type": "word"
+    },
+    {
+      "text": "One,",
+      "start": 4.23,
+      "end": 4.511,
+      "type": "word"
+    },
+    {
+      "text": "two,",
+      "start": 4.744,
+      "end": 5.018,
+      "type": "word"
+    },
+    {
+      "text": "three,",
+      "start": 5.15,
+      "end": 5.448,
+      "type": "word"
+    },
+    {
+      "text": "four,",
+      "start": 5.549,
+      "end": 5.822,
+      "type": "word"
+    },
+    {
+      "text": "five.",
+      "start": 5.92,
+      "end": 6.61,
+      "type": "word"
+    },
+    {
+      "text": "How",
+      "start": 6.82,
+      "end": 6.912,
+      "type": "word"
+    },
+    {
+      "text": "many",
+      "start": 6.94,
+      "end": 7.141,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 7.25,
+      "end": 7.582,
+      "type": "word"
+    },
+    {
+      "text": "do",
+      "start": 7.618,
+      "end": 7.73,
+      "type": "word"
+    },
+    {
+      "text": "we",
+      "start": 7.757,
+      "end": 7.841,
+      "type": "word"
+    },
+    {
+      "text": "have",
+      "start": 7.869,
+      "end": 7.972,
+      "type": "word"
+    },
+    {
+      "text": "altogether?",
+      "start": 8.003,
+      "end": 8.681,
+      "type": "word"
+    }
+  ]
+}

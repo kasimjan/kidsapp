@@ -1,0 +1,80 @@
+{
+  "source": "01-hook.wav",
+  "duration": 5.431,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Hello,",
+      "start": 0.03,
+      "end": 0.517,
+      "type": "word"
+    },
+    {
+      "text": "math",
+      "start": 0.608,
+      "end": 0.855,
+      "type": "word"
+    },
+    {
+      "text": "explorers!",
+      "start": 0.86,
+      "end": 1.69,
+      "type": "word"
+    },
+    {
+      "text": "Today",
+      "start": 1.97,
+      "end": 2.253,
+      "type": "word"
+    },
+    {
+      "text": "we're",
+      "start": 2.288,
+      "end": 2.385,
+      "type": "word"
+    },
+    {
+      "text": "solving",
+      "start": 2.441,
+      "end": 2.841,
+      "type": "word"
+    },
+    {
+      "text": "seven",
+      "start": 2.936,
+      "end": 3.251,
+      "type": "word"
+    },
+    {
+      "text": "plus",
+      "start": 3.307,
+      "end": 3.561,
+      "type": "word"
+    },
+    {
+      "text": "five.",
+      "start": 3.618,
+      "end": 4.09,
+      "type": "word"
+    },
+    {
+      "text": "Are",
+      "start": 4.39,
+      "end": 4.472,
+      "type": "word"
+    },
+    {
+      "text": "you",
+      "start": 4.527,
+      "end": 4.616,
+      "type": "word"
+    },
+    {
+      "text": "ready?",
+      "start": 4.672,
+      "end": 5.06,
+      "type": "word"
+    }
+  ]
+}

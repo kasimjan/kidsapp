@@ -1,0 +1,170 @@
+{
+  "source": "04-tens.wav",
+  "duration": 9.71,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Seven",
+      "start": 0.03,
+      "end": 0.406,
+      "type": "word"
+    },
+    {
+      "text": "needs",
+      "start": 0.46,
+      "end": 0.74,
+      "type": "word"
+    },
+    {
+      "text": "three",
+      "start": 0.8,
+      "end": 1.009,
+      "type": "word"
+    },
+    {
+      "text": "more",
+      "start": 1.064,
+      "end": 1.258,
+      "type": "word"
+    },
+    {
+      "text": "to",
+      "start": 1.312,
+      "end": 1.367,
+      "type": "word"
+    },
+    {
+      "text": "make",
+      "start": 1.395,
+      "end": 1.591,
+      "type": "word"
+    },
+    {
+      "text": "ten.",
+      "start": 1.655,
+      "end": 2.15,
+      "type": "word"
+    },
+    {
+      "text": "We",
+      "start": 2.36,
+      "end": 2.433,
+      "type": "word"
+    },
+    {
+      "text": "take",
+      "start": 2.488,
+      "end": 2.705,
+      "type": "word"
+    },
+    {
+      "text": "three",
+      "start": 2.789,
+      "end": 3.005,
+      "type": "word"
+    },
+    {
+      "text": "from",
+      "start": 3.051,
+      "end": 3.161,
+      "type": "word"
+    },
+    {
+      "text": "our",
+      "start": 3.188,
+      "end": 3.298,
+      "type": "word"
+    },
+    {
+      "text": "five",
+      "start": 3.347,
+      "end": 3.583,
+      "type": "word"
+    },
+    {
+      "text": "apples.",
+      "start": 3.638,
+      "end": 4.15,
+      "type": "word"
+    },
+    {
+      "text": "Now",
+      "start": 4.58,
+      "end": 4.851,
+      "type": "word"
+    },
+    {
+      "text": "we",
+      "start": 4.898,
+      "end": 4.982,
+      "type": "word"
+    },
+    {
+      "text": "have",
+      "start": 5.033,
+      "end": 5.203,
+      "type": "word"
+    },
+    {
+      "text": "ten,",
+      "start": 5.25,
+      "end": 5.673,
+      "type": "word"
+    },
+    {
+      "text": "with",
+      "start": 5.8,
+      "end": 5.988,
+      "type": "word"
+    },
+    {
+      "text": "two",
+      "start": 6.0,
+      "end": 6.217,
+      "type": "word"
+    },
+    {
+      "text": "left",
+      "start": 6.27,
+      "end": 6.492,
+      "type": "word"
+    },
+    {
+      "text": "over.",
+      "start": 6.52,
+      "end": 6.88,
+      "type": "word"
+    },
+    {
+      "text": "Ten",
+      "start": 7.36,
+      "end": 7.733,
+      "type": "word"
+    },
+    {
+      "text": "plus",
+      "start": 7.794,
+      "end": 8.044,
+      "type": "word"
+    },
+    {
+      "text": "two",
+      "start": 8.08,
+      "end": 8.319,
+      "type": "word"
+    },
+    {
+      "text": "equals",
+      "start": 8.373,
+      "end": 8.742,
+      "type": "word"
+    },
+    {
+      "text": "twelve!",
+      "start": 8.76,
+      "end": 9.3,
+      "type": "word"
+    }
+  ]
+}

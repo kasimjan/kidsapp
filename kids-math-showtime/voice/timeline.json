@@ -1,0 +1,1756 @@
+{
+  "version": 1,
+  "file": "vo.wav",
+  "sample_rate": 48000,
+  "duration": 54.001,
+  "lead_in": 0.0,
+  "tail": 0.541,
+  "loudness": -16.05,
+  "script": "../narration.md",
+  "lines": [
+    {
+      "id": "hook",
+      "index": 1,
+      "text": "Hello, math explorers! Today we're solving seven plus five. Are you ready?",
+      "source_text": "Hello, math explorers! Today we're solving seven plus five. Are you ready?",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 0.0,
+      "end": 5.431,
+      "duration": 5.431,
+      "speech_start": 0.03,
+      "speech_end": 5.06,
+      "pause_after": 0.321,
+      "slot": {
+        "start": 0.0,
+        "end": 5.752,
+        "duration": 5.752
+      },
+      "file": "lines/01-hook.wav",
+      "timing": "exact",
+      "wps": 2.386,
+      "words": [
+        {
+          "text": "Hello,",
+          "start": 0.03,
+          "end": 0.517,
+          "line": "hook"
+        },
+        {
+          "text": "math",
+          "start": 0.608,
+          "end": 0.855,
+          "line": "hook"
+        },
+        {
+          "text": "explorers!",
+          "start": 0.86,
+          "end": 1.69,
+          "line": "hook"
+        },
+        {
+          "text": "Today",
+          "start": 1.97,
+          "end": 2.253,
+          "line": "hook"
+        },
+        {
+          "text": "we're",
+          "start": 2.288,
+          "end": 2.385,
+          "line": "hook"
+        },
+        {
+          "text": "solving",
+          "start": 2.441,
+          "end": 2.841,
+          "line": "hook"
+        },
+        {
+          "text": "seven",
+          "start": 2.936,
+          "end": 3.251,
+          "line": "hook"
+        },
+        {
+          "text": "plus",
+          "start": 3.307,
+          "end": 3.561,
+          "line": "hook"
+        },
+        {
+          "text": "five.",
+          "start": 3.618,
+          "end": 4.09,
+          "line": "hook"
+        },
+        {
+          "text": "Are",
+          "start": 4.39,
+          "end": 4.472,
+          "line": "hook"
+        },
+        {
+          "text": "you",
+          "start": 4.527,
+          "end": 4.616,
+          "line": "hook"
+        },
+        {
+          "text": "ready?",
+          "start": 4.672,
+          "end": 5.06,
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "sevens",
+      "index": 2,
+      "text": "First, we have seven delicious red apples. Let's count them! One, two, three, four, five, six, seven.",
+      "source_text": "First, we have seven delicious red apples. Let's count them! One, two, three, four, five, six, seven.",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 5.752,
+      "end": 13.356,
+      "duration": 7.603,
+      "speech_start": 5.772,
+      "speech_end": 12.975,
+      "pause_after": 0.321,
+      "slot": {
+        "start": 5.752,
+        "end": 13.677,
+        "duration": 7.924
+      },
+      "file": "lines/02-sevens.wav",
+      "timing": "exact",
+      "wps": 2.36,
+      "words": [
+        {
+          "text": "First,",
+          "start": 5.772,
+          "end": 6.122,
+          "line": "sevens"
+        },
+        {
+          "text": "we",
+          "start": 6.312,
+          "end": 6.372,
+          "line": "sevens"
+        },
+        {
+          "text": "have",
+          "start": 6.411,
+          "end": 6.575,
+          "line": "sevens"
+        },
+        {
+          "text": "seven",
+          "start": 6.666,
+          "end": 6.987,
+          "line": "sevens"
+        },
+        {
+          "text": "delicious",
+          "start": 7.042,
+          "end": 7.52,
+          "line": "sevens"
+        },
+        {
+          "text": "red",
+          "start": 7.575,
+          "end": 7.724,
+          "line": "sevens"
+        },
+        {
+          "text": "apples.",
+          "start": 7.779,
+          "end": 8.412,
+          "line": "sevens"
+        },
+        {
+          "text": "Let's",
+          "start": 8.702,
+          "end": 8.903,
+          "line": "sevens"
+        },
+        {
+          "text": "count",
+          "start": 8.932,
+          "end": 9.216,
+          "line": "sevens"
+        },
+        {
+          "text": "them!",
+          "start": 9.258,
+          "end": 9.522,
+          "line": "sevens"
+        },
+        {
+          "text": "One,",
+          "start": 9.962,
+          "end": 10.2,
+          "line": "sevens"
+        },
+        {
+          "text": "two,",
+          "start": 10.309,
+          "end": 10.604,
+          "line": "sevens"
+        },
+        {
+          "text": "three,",
+          "start": 10.732,
+          "end": 11.02,
+          "line": "sevens"
+        },
+        {
+          "text": "four,",
+          "start": 11.127,
+          "end": 11.419,
+          "line": "sevens"
+        },
+        {
+          "text": "five,",
+          "start": 11.527,
+          "end": 11.887,
+          "line": "sevens"
+        },
+        {
+          "text": "six,",
+          "start": 12.048,
+          "end": 12.336,
+          "line": "sevens"
+        },
+        {
+          "text": "seven.",
+          "start": 12.442,
+          "end": 12.975,
+          "line": "sevens"
+        }
+      ]
+    },
+    {
+      "id": "fives",
+      "index": 3,
+      "text": "Now, let's add five more apples. Here come the green ones! One, two, three, four, five. How many apples do we have altogether?",
+      "source_text": "Now, let's add five more apples. Here come the green ones! One, two, three, four, five. How many apples do we have altogether?",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 13.677,
+      "end": 22.747,
+      "duration": 9.071,
+      "speech_start": 13.727,
+      "speech_end": 22.358,
+      "pause_after": 0.321,
+      "slot": {
+        "start": 13.677,
+        "end": 23.068,
+        "duration": 9.392
+      },
+      "file": "lines/03-fives.wav",
+      "timing": "exact",
+      "wps": 2.665,
+      "words": [
+        {
+          "text": "Now,",
+          "start": 13.727,
+          "end": 14.08,
+          "line": "fives"
+        },
+        {
+          "text": "let's",
+          "start": 14.16,
+          "end": 14.376,
+          "line": "fives"
+        },
+        {
+          "text": "add",
+          "start": 14.429,
+          "end": 14.633,
+          "line": "fives"
+        },
+        {
+          "text": "five",
+          "start": 14.708,
+          "end": 14.996,
+          "line": "fives"
+        },
+        {
+          "text": "more",
+          "start": 15.041,
+          "end": 15.216,
+          "line": "fives"
+        },
+        {
+          "text": "apples.",
+          "start": 15.273,
+          "end": 15.837,
+          "line": "fives"
+        },
+        {
+          "text": "Here",
+          "start": 16.227,
+          "end": 16.446,
+          "line": "fives"
+        },
+        {
+          "text": "come",
+          "start": 16.477,
+          "end": 16.631,
+          "line": "fives"
+        },
+        {
+          "text": "the",
+          "start": 16.66,
+          "end": 16.716,
+          "line": "fives"
+        },
+        {
+          "text": "green",
+          "start": 16.772,
+          "end": 17.035,
+          "line": "fives"
+        },
+        {
+          "text": "ones!",
+          "start": 17.083,
+          "end": 17.497,
+          "line": "fives"
+        },
+        {
+          "text": "One,",
+          "start": 17.907,
+          "end": 18.188,
+          "line": "fives"
+        },
+        {
+          "text": "two,",
+          "start": 18.421,
+          "end": 18.695,
+          "line": "fives"
+        },
+        {
+          "text": "three,",
+          "start": 18.827,
+          "end": 19.125,
+          "line": "fives"
+        },
+        {
+          "text": "four,",
+          "start": 19.226,
+          "end": 19.499,
+          "line": "fives"
+        },
+        {
+          "text": "five.",
+          "start": 19.597,
+          "end": 20.287,
+          "line": "fives"
+        },
+        {
+          "text": "How",
+          "start": 20.497,
+          "end": 20.589,
+          "line": "fives"
+        },
+        {
+          "text": "many",
+          "start": 20.617,
+          "end": 20.818,
+          "line": "fives"
+        },
+        {
+          "text": "apples",
+          "start": 20.927,
+          "end": 21.259,
+          "line": "fives"
+        },
+        {
+          "text": "do",
+          "start": 21.295,
+          "end": 21.407,
+          "line": "fives"
+        },
+        {
+          "text": "we",
+          "start": 21.434,
+          "end": 21.518,
+          "line": "fives"
+        },
+        {
+          "text": "have",
+          "start": 21.546,
+          "end": 21.649,
+          "line": "fives"
+        },
+        {
+          "text": "altogether?",
+          "start": 21.68,
+          "end": 22.358,
+          "line": "fives"
+        }
+      ]
+    },
+    {
+      "id": "tens",
+      "index": 4,
+      "text": "Seven needs three more to make ten. We take three from our five apples. Now we have ten, with two left over. Ten plus two equals twelve!",
+      "source_text": "Seven needs three more to make ten. We take three from our five apples. Now we have ten, with two left over. Ten plus two equals twelve!",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 23.068,
+      "end": 32.778,
+      "duration": 9.71,
+      "speech_start": 23.098,
+      "speech_end": 32.368,
+      "pause_after": 0.321,
+      "slot": {
+        "start": 23.068,
+        "end": 33.099,
+        "duration": 10.031
+      },
+      "file": "lines/04-tens.wav",
+      "timing": "exact",
+      "wps": 2.913,
+      "words": [
+        {
+          "text": "Seven",
+          "start": 23.098,
+          "end": 23.474,
+          "line": "tens"
+        },
+        {
+          "text": "needs",
+          "start": 23.528,
+          "end": 23.808,
+          "line": "tens"
+        },
+        {
+          "text": "three",
+          "start": 23.868,
+          "end": 24.077,
+          "line": "tens"
+        },
+        {
+          "text": "more",
+          "start": 24.132,
+          "end": 24.326,
+          "line": "tens"
+        },
+        {
+          "text": "to",
+          "start": 24.38,
+          "end": 24.435,
+          "line": "tens"
+        },
+        {
+          "text": "make",
+          "start": 24.463,
+          "end": 24.659,
+          "line": "tens"
+        },
+        {
+          "text": "ten.",
+          "start": 24.723,
+          "end": 25.218,
+          "line": "tens"
+        },
+        {
+          "text": "We",
+          "start": 25.428,
+          "end": 25.501,
+          "line": "tens"
+        },
+        {
+          "text": "take",
+          "start": 25.556,
+          "end": 25.773,
+          "line": "tens"
+        },
+        {
+          "text": "three",
+          "start": 25.857,
+          "end": 26.073,
+          "line": "tens"
+        },
+        {
+          "text": "from",
+          "start": 26.119,
+          "end": 26.229,
+          "line": "tens"
+        },
+        {
+          "text": "our",
+          "start": 26.256,
+          "end": 26.366,
+          "line": "tens"
+        },
+        {
+          "text": "five",
+          "start": 26.415,
+          "end": 26.651,
+          "line": "tens"
+        },
+        {
+          "text": "apples.",
+          "start": 26.706,
+          "end": 27.218,
+          "line": "tens"
+        },
+        {
+          "text": "Now",
+          "start": 27.648,
+          "end": 27.919,
+          "line": "tens"
+        },
+        {
+          "text": "we",
+          "start": 27.966,
+          "end": 28.05,
+          "line": "tens"
+        },
+        {
+          "text": "have",
+          "start": 28.101,
+          "end": 28.271,
+          "line": "tens"
+        },
+        {
+          "text": "ten,",
+          "start": 28.318,
+          "end": 28.741,
+          "line": "tens"
+        },
+        {
+          "text": "with",
+          "start": 28.868,
+          "end": 29.056,
+          "line": "tens"
+        },
+        {
+          "text": "two",
+          "start": 29.068,
+          "end": 29.285,
+          "line": "tens"
+        },
+        {
+          "text": "left",
+          "start": 29.338,
+          "end": 29.56,
+          "line": "tens"
+        },
+        {
+          "text": "over.",
+          "start": 29.588,
+          "end": 29.948,
+          "line": "tens"
+        },
+        {
+          "text": "Ten",
+          "start": 30.428,
+          "end": 30.801,
+          "line": "tens"
+        },
+        {
+          "text": "plus",
+          "start": 30.862,
+          "end": 31.112,
+          "line": "tens"
+        },
+        {
+          "text": "two",
+          "start": 31.148,
+          "end": 31.387,
+          "line": "tens"
+        },
+        {
+          "text": "equals",
+          "start": 31.441,
+          "end": 31.81,
+          "line": "tens"
+        },
+        {
+          "text": "twelve!",
+          "start": 31.828,
+          "end": 32.368,
+          "line": "tens"
+        }
+      ]
+    },
+    {
+      "id": "win",
+      "index": 5,
+      "text": "Great job! Seven plus five equals twelve! Look at all twelve apples.",
+      "source_text": "Great job! Seven plus five equals twelve! Look at all twelve apples.",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 33.099,
+      "end": 38.409,
+      "duration": 5.31,
+      "speech_start": 33.119,
+      "speech_end": 38.009,
+      "pause_after": 0.321,
+      "slot": {
+        "start": 33.099,
+        "end": 38.73,
+        "duration": 5.631
+      },
+      "file": "lines/05-win.wav",
+      "timing": "exact",
+      "wps": 2.454,
+      "words": [
+        {
+          "text": "Great",
+          "start": 33.119,
+          "end": 33.396,
+          "line": "win"
+        },
+        {
+          "text": "job!",
+          "start": 33.451,
+          "end": 33.936,
+          "line": "win"
+        },
+        {
+          "text": "Seven",
+          "start": 34.209,
+          "end": 34.569,
+          "line": "win"
+        },
+        {
+          "text": "plus",
+          "start": 34.624,
+          "end": 34.862,
+          "line": "win"
+        },
+        {
+          "text": "five",
+          "start": 34.917,
+          "end": 35.197,
+          "line": "win"
+        },
+        {
+          "text": "equals",
+          "start": 35.242,
+          "end": 35.596,
+          "line": "win"
+        },
+        {
+          "text": "twelve!",
+          "start": 35.629,
+          "end": 36.189,
+          "line": "win"
+        },
+        {
+          "text": "Look",
+          "start": 36.519,
+          "end": 36.715,
+          "line": "win"
+        },
+        {
+          "text": "at",
+          "start": 36.763,
+          "end": 36.87,
+          "line": "win"
+        },
+        {
+          "text": "all",
+          "start": 36.926,
+          "end": 37.11,
+          "line": "win"
+        },
+        {
+          "text": "twelve",
+          "start": 37.166,
+          "end": 37.453,
+          "line": "win"
+        },
+        {
+          "text": "apples.",
+          "start": 37.51,
+          "end": 38.009,
+          "line": "win"
+        }
+      ]
+    },
+    {
+      "id": "recap",
+      "index": 6,
+      "text": "Let's remember how we did it. Seven plus five is the same as seven plus three plus two. Seven plus three is ten, and ten plus two is twelve. Remember, making ten helps us add numbers more easily!",
+      "source_text": "Let's remember how we did it. Seven plus five is the same as seven plus three plus two. Seven plus three is ten, and ten plus two is twelve. Remember, making ten helps us add numbers more easily!",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 0.862,
+      "style": "neutral",
+      "start": 38.73,
+      "end": 53.46,
+      "duration": 14.73,
+      "speech_start": 38.78,
+      "speech_end": 53.08,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 38.73,
+        "end": 54.001,
+        "duration": 15.271
+      },
+      "file": "lines/06-recap.wav",
+      "timing": "exact",
+      "wps": 2.657,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 38.78,
+          "end": 39.045,
+          "line": "recap"
+        },
+        {
+          "text": "remember",
+          "start": 39.094,
+          "end": 39.48,
+          "line": "recap"
+        },
+        {
+          "text": "how",
+          "start": 39.554,
+          "end": 39.749,
+          "line": "recap"
+        },
+        {
+          "text": "we",
+          "start": 39.799,
+          "end": 39.884,
+          "line": "recap"
+        },
+        {
+          "text": "did",
+          "start": 39.94,
+          "end": 40.107,
+          "line": "recap"
+        },
+        {
+          "text": "it.",
+          "start": 40.164,
+          "end": 40.33,
+          "line": "recap"
+        },
+        {
+          "text": "Seven",
+          "start": 40.88,
+          "end": 41.227,
+          "line": "recap"
+        },
+        {
+          "text": "plus",
+          "start": 41.283,
+          "end": 41.529,
+          "line": "recap"
+        },
+        {
+          "text": "five",
+          "start": 41.585,
+          "end": 41.981,
+          "line": "recap"
+        },
+        {
+          "text": "is",
+          "start": 42.037,
+          "end": 42.139,
+          "line": "recap"
+        },
+        {
+          "text": "the",
+          "start": 42.18,
+          "end": 42.257,
+          "line": "recap"
+        },
+        {
+          "text": "same",
+          "start": 42.341,
+          "end": 42.693,
+          "line": "recap"
+        },
+        {
+          "text": "as",
+          "start": 42.768,
+          "end": 42.874,
+          "line": "recap"
+        },
+        {
+          "text": "seven",
+          "start": 42.982,
+          "end": 43.317,
+          "line": "recap"
+        },
+        {
+          "text": "plus",
+          "start": 43.373,
+          "end": 43.636,
+          "line": "recap"
+        },
+        {
+          "text": "three",
+          "start": 43.692,
+          "end": 43.91,
+          "line": "recap"
+        },
+        {
+          "text": "plus",
+          "start": 43.967,
+          "end": 44.209,
+          "line": "recap"
+        },
+        {
+          "text": "two.",
+          "start": 44.286,
+          "end": 44.54,
+          "line": "recap"
+        },
+        {
+          "text": "Seven",
+          "start": 45.19,
+          "end": 45.497,
+          "line": "recap"
+        },
+        {
+          "text": "plus",
+          "start": 45.553,
+          "end": 45.814,
+          "line": "recap"
+        },
+        {
+          "text": "three",
+          "start": 45.874,
+          "end": 46.152,
+          "line": "recap"
+        },
+        {
+          "text": "is",
+          "start": 46.216,
+          "end": 46.329,
+          "line": "recap"
+        },
+        {
+          "text": "ten,",
+          "start": 46.414,
+          "end": 46.991,
+          "line": "recap"
+        },
+        {
+          "text": "and",
+          "start": 47.08,
+          "end": 47.234,
+          "line": "recap"
+        },
+        {
+          "text": "ten",
+          "start": 47.32,
+          "end": 47.552,
+          "line": "recap"
+        },
+        {
+          "text": "plus",
+          "start": 47.609,
+          "end": 47.858,
+          "line": "recap"
+        },
+        {
+          "text": "two",
+          "start": 47.86,
+          "end": 48.174,
+          "line": "recap"
+        },
+        {
+          "text": "is",
+          "start": 48.233,
+          "end": 48.345,
+          "line": "recap"
+        },
+        {
+          "text": "twelve.",
+          "start": 48.403,
+          "end": 48.93,
+          "line": "recap"
+        },
+        {
+          "text": "Remember,",
+          "start": 49.42,
+          "end": 50.112,
+          "line": "recap"
+        },
+        {
+          "text": "making",
+          "start": 50.24,
+          "end": 50.576,
+          "line": "recap"
+        },
+        {
+          "text": "ten",
+          "start": 50.66,
+          "end": 50.913,
+          "line": "recap"
+        },
+        {
+          "text": "helps",
+          "start": 50.969,
+          "end": 51.217,
+          "line": "recap"
+        },
+        {
+          "text": "us",
+          "start": 51.245,
+          "end": 51.39,
+          "line": "recap"
+        },
+        {
+          "text": "add",
+          "start": 51.43,
+          "end": 51.698,
+          "line": "recap"
+        },
+        {
+          "text": "numbers",
+          "start": 51.749,
+          "end": 52.14,
+          "line": "recap"
+        },
+        {
+          "text": "more",
+          "start": 52.196,
+          "end": 52.408,
+          "line": "recap"
+        },
+        {
+          "text": "easily!",
+          "start": 52.45,
+          "end": 53.08,
+          "line": "recap"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "text": "Hello,",
+      "start": 0.03,
+      "end": 0.517,
+      "line": "hook"
+    },
+    {
+      "text": "math",
+      "start": 0.608,
+      "end": 0.855,
+      "line": "hook"
+    },
+    {
+      "text": "explorers!",
+      "start": 0.86,
+      "end": 1.69,
+      "line": "hook"
+    },
+    {
+      "text": "Today",
+      "start": 1.97,
+      "end": 2.253,
+      "line": "hook"
+    },
+    {
+      "text": "we're",
+      "start": 2.288,
+      "end": 2.385,
+      "line": "hook"
+    },
+    {
+      "text": "solving",
+      "start": 2.441,
+      "end": 2.841,
+      "line": "hook"
+    },
+    {
+      "text": "seven",
+      "start": 2.936,
+      "end": 3.251,
+      "line": "hook"
+    },
+    {
+      "text": "plus",
+      "start": 3.307,
+      "end": 3.561,
+      "line": "hook"
+    },
+    {
+      "text": "five.",
+      "start": 3.618,
+      "end": 4.09,
+      "line": "hook"
+    },
+    {
+      "text": "Are",
+      "start": 4.39,
+      "end": 4.472,
+      "line": "hook"
+    },
+    {
+      "text": "you",
+      "start": 4.527,
+      "end": 4.616,
+      "line": "hook"
+    },
+    {
+      "text": "ready?",
+      "start": 4.672,
+      "end": 5.06,
+      "line": "hook"
+    },
+    {
+      "text": "First,",
+      "start": 5.772,
+      "end": 6.122,
+      "line": "sevens"
+    },
+    {
+      "text": "we",
+      "start": 6.312,
+      "end": 6.372,
+      "line": "sevens"
+    },
+    {
+      "text": "have",
+      "start": 6.411,
+      "end": 6.575,
+      "line": "sevens"
+    },
+    {
+      "text": "seven",
+      "start": 6.666,
+      "end": 6.987,
+      "line": "sevens"
+    },
+    {
+      "text": "delicious",
+      "start": 7.042,
+      "end": 7.52,
+      "line": "sevens"
+    },
+    {
+      "text": "red",
+      "start": 7.575,
+      "end": 7.724,
+      "line": "sevens"
+    },
+    {
+      "text": "apples.",
+      "start": 7.779,
+      "end": 8.412,
+      "line": "sevens"
+    },
+    {
+      "text": "Let's",
+      "start": 8.702,
+      "end": 8.903,
+      "line": "sevens"
+    },
+    {
+      "text": "count",
+      "start": 8.932,
+      "end": 9.216,
+      "line": "sevens"
+    },
+    {
+      "text": "them!",
+      "start": 9.258,
+      "end": 9.522,
+      "line": "sevens"
+    },
+    {
+      "text": "One,",
+      "start": 9.962,
+      "end": 10.2,
+      "line": "sevens"
+    },
+    {
+      "text": "two,",
+      "start": 10.309,
+      "end": 10.604,
+      "line": "sevens"
+    },
+    {
+      "text": "three,",
+      "start": 10.732,
+      "end": 11.02,
+      "line": "sevens"
+    },
+    {
+      "text": "four,",
+      "start": 11.127,
+      "end": 11.419,
+      "line": "sevens"
+    },
+    {
+      "text": "five,",
+      "start": 11.527,
+      "end": 11.887,
+      "line": "sevens"
+    },
+    {
+      "text": "six,",
+      "start": 12.048,
+      "end": 12.336,
+      "line": "sevens"
+    },
+    {
+      "text": "seven.",
+      "start": 12.442,
+      "end": 12.975,
+      "line": "sevens"
+    },
+    {
+      "text": "Now,",
+      "start": 13.727,
+      "end": 14.08,
+      "line": "fives"
+    },
+    {
+      "text": "let's",
+      "start": 14.16,
+      "end": 14.376,
+      "line": "fives"
+    },
+    {
+      "text": "add",
+      "start": 14.429,
+      "end": 14.633,
+      "line": "fives"
+    },
+    {
+      "text": "five",
+      "start": 14.708,
+      "end": 14.996,
+      "line": "fives"
+    },
+    {
+      "text": "more",
+      "start": 15.041,
+      "end": 15.216,
+      "line": "fives"
+    },
+    {
+      "text": "apples.",
+      "start": 15.273,
+      "end": 15.837,
+      "line": "fives"
+    },
+    {
+      "text": "Here",
+      "start": 16.227,
+      "end": 16.446,
+      "line": "fives"
+    },
+    {
+      "text": "come",
+      "start": 16.477,
+      "end": 16.631,
+      "line": "fives"
+    },
+    {
+      "text": "the",
+      "start": 16.66,
+      "end": 16.716,
+      "line": "fives"
+    },
+    {
+      "text": "green",
+      "start": 16.772,
+      "end": 17.035,
+      "line": "fives"
+    },
+    {
+      "text": "ones!",
+      "start": 17.083,
+      "end": 17.497,
+      "line": "fives"
+    },
+    {
+      "text": "One,",
+      "start": 17.907,
+      "end": 18.188,
+      "line": "fives"
+    },
+    {
+      "text": "two,",
+      "start": 18.421,
+      "end": 18.695,
+      "line": "fives"
+    },
+    {
+      "text": "three,",
+      "start": 18.827,
+      "end": 19.125,
+      "line": "fives"
+    },
+    {
+      "text": "four,",
+      "start": 19.226,
+      "end": 19.499,
+      "line": "fives"
+    },
+    {
+      "text": "five.",
+      "start": 19.597,
+      "end": 20.287,
+      "line": "fives"
+    },
+    {
+      "text": "How",
+      "start": 20.497,
+      "end": 20.589,
+      "line": "fives"
+    },
+    {
+      "text": "many",
+      "start": 20.617,
+      "end": 20.818,
+      "line": "fives"
+    },
+    {
+      "text": "apples",
+      "start": 20.927,
+      "end": 21.259,
+      "line": "fives"
+    },
+    {
+      "text": "do",
+      "start": 21.295,
+      "end": 21.407,
+      "line": "fives"
+    },
+    {
+      "text": "we",
+      "start": 21.434,
+      "end": 21.518,
+      "line": "fives"
+    },
+    {
+      "text": "have",
+      "start": 21.546,
+      "end": 21.649,
+      "line": "fives"
+    },
+    {
+      "text": "altogether?",
+      "start": 21.68,
+      "end": 22.358,
+      "line": "fives"
+    },
+    {
+      "text": "Seven",
+      "start": 23.098,
+      "end": 23.474,
+      "line": "tens"
+    },
+    {
+      "text": "needs",
+      "start": 23.528,
+      "end": 23.808,
+      "line": "tens"
+    },
+    {
+      "text": "three",
+      "start": 23.868,
+      "end": 24.077,
+      "line": "tens"
+    },
+    {
+      "text": "more",
+      "start": 24.132,
+      "end": 24.326,
+      "line": "tens"
+    },
+    {
+      "text": "to",
+      "start": 24.38,
+      "end": 24.435,
+      "line": "tens"
+    },
+    {
+      "text": "make",
+      "start": 24.463,
+      "end": 24.659,
+      "line": "tens"
+    },
+    {
+      "text": "ten.",
+      "start": 24.723,
+      "end": 25.218,
+      "line": "tens"
+    },
+    {
+      "text": "We",
+      "start": 25.428,
+      "end": 25.501,
+      "line": "tens"
+    },
+    {
+      "text": "take",
+      "start": 25.556,
+      "end": 25.773,
+      "line": "tens"
+    },
+    {
+      "text": "three",
+      "start": 25.857,
+      "end": 26.073,
+      "line": "tens"
+    },
+    {
+      "text": "from",
+      "start": 26.119,
+      "end": 26.229,
+      "line": "tens"
+    },
+    {
+      "text": "our",
+      "start": 26.256,
+      "end": 26.366,
+      "line": "tens"
+    },
+    {
+      "text": "five",
+      "start": 26.415,
+      "end": 26.651,
+      "line": "tens"
+    },
+    {
+      "text": "apples.",
+      "start": 26.706,
+      "end": 27.218,
+      "line": "tens"
+    },
+    {
+      "text": "Now",
+      "start": 27.648,
+      "end": 27.919,
+      "line": "tens"
+    },
+    {
+      "text": "we",
+      "start": 27.966,
+      "end": 28.05,
+      "line": "tens"
+    },
+    {
+      "text": "have",
+      "start": 28.101,
+      "end": 28.271,
+      "line": "tens"
+    },
+    {
+      "text": "ten,",
+      "start": 28.318,
+      "end": 28.741,
+      "line": "tens"
+    },
+    {
+      "text": "with",
+      "start": 28.868,
+      "end": 29.056,
+      "line": "tens"
+    },
+    {
+      "text": "two",
+      "start": 29.068,
+      "end": 29.285,
+      "line": "tens"
+    },
+    {
+      "text": "left",
+      "start": 29.338,
+      "end": 29.56,
+      "line": "tens"
+    },
+    {
+      "text": "over.",
+      "start": 29.588,
+      "end": 29.948,
+      "line": "tens"
+    },
+    {
+      "text": "Ten",
+      "start": 30.428,
+      "end": 30.801,
+      "line": "tens"
+    },
+    {
+      "text": "plus",
+      "start": 30.862,
+      "end": 31.112,
+      "line": "tens"
+    },
+    {
+      "text": "two",
+      "start": 31.148,
+      "end": 31.387,
+      "line": "tens"
+    },
+    {
+      "text": "equals",
+      "start": 31.441,
+      "end": 31.81,
+      "line": "tens"
+    },
+    {
+      "text": "twelve!",
+      "start": 31.828,
+      "end": 32.368,
+      "line": "tens"
+    },
+    {
+      "text": "Great",
+      "start": 33.119,
+      "end": 33.396,
+      "line": "win"
+    },
+    {
+      "text": "job!",
+      "start": 33.451,
+      "end": 33.936,
+      "line": "win"
+    },
+    {
+      "text": "Seven",
+      "start": 34.209,
+      "end": 34.569,
+      "line": "win"
+    },
+    {
+      "text": "plus",
+      "start": 34.624,
+      "end": 34.862,
+      "line": "win"
+    },
+    {
+      "text": "five",
+      "start": 34.917,
+      "end": 35.197,
+      "line": "win"
+    },
+    {
+      "text": "equals",
+      "start": 35.242,
+      "end": 35.596,
+      "line": "win"
+    },
+    {
+      "text": "twelve!",
+      "start": 35.629,
+      "end": 36.189,
+      "line": "win"
+    },
+    {
+      "text": "Look",
+      "start": 36.519,
+      "end": 36.715,
+      "line": "win"
+    },
+    {
+      "text": "at",
+      "start": 36.763,
+      "end": 36.87,
+      "line": "win"
+    },
+    {
+      "text": "all",
+      "start": 36.926,
+      "end": 37.11,
+      "line": "win"
+    },
+    {
+      "text": "twelve",
+      "start": 37.166,
+      "end": 37.453,
+      "line": "win"
+    },
+    {
+      "text": "apples.",
+      "start": 37.51,
+      "end": 38.009,
+      "line": "win"
+    },
+    {
+      "text": "Let's",
+      "start": 38.78,
+      "end": 39.045,
+      "line": "recap"
+    },
+    {
+      "text": "remember",
+      "start": 39.094,
+      "end": 39.48,
+      "line": "recap"
+    },
+    {
+      "text": "how",
+      "start": 39.554,
+      "end": 39.749,
+      "line": "recap"
+    },
+    {
+      "text": "we",
+      "start": 39.799,
+      "end": 39.884,
+      "line": "recap"
+    },
+    {
+      "text": "did",
+      "start": 39.94,
+      "end": 40.107,
+      "line": "recap"
+    },
+    {
+      "text": "it.",
+      "start": 40.164,
+      "end": 40.33,
+      "line": "recap"
+    },
+    {
+      "text": "Seven",
+      "start": 40.88,
+      "end": 41.227,
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 41.283,
+      "end": 41.529,
+      "line": "recap"
+    },
+    {
+      "text": "five",
+      "start": 41.585,
+      "end": 41.981,
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 42.037,
+      "end": 42.139,
+      "line": "recap"
+    },
+    {
+      "text": "the",
+      "start": 42.18,
+      "end": 42.257,
+      "line": "recap"
+    },
+    {
+      "text": "same",
+      "start": 42.341,
+      "end": 42.693,
+      "line": "recap"
+    },
+    {
+      "text": "as",
+      "start": 42.768,
+      "end": 42.874,
+      "line": "recap"
+    },
+    {
+      "text": "seven",
+      "start": 42.982,
+      "end": 43.317,
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 43.373,
+      "end": 43.636,
+      "line": "recap"
+    },
+    {
+      "text": "three",
+      "start": 43.692,
+      "end": 43.91,
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 43.967,
+      "end": 44.209,
+      "line": "recap"
+    },
+    {
+      "text": "two.",
+      "start": 44.286,
+      "end": 44.54,
+      "line": "recap"
+    },
+    {
+      "text": "Seven",
+      "start": 45.19,
+      "end": 45.497,
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 45.553,
+      "end": 45.814,
+      "line": "recap"
+    },
+    {
+      "text": "three",
+      "start": 45.874,
+      "end": 46.152,
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 46.216,
+      "end": 46.329,
+      "line": "recap"
+    },
+    {
+      "text": "ten,",
+      "start": 46.414,
+      "end": 46.991,
+      "line": "recap"
+    },
+    {
+      "text": "and",
+      "start": 47.08,
+      "end": 47.234,
+      "line": "recap"
+    },
+    {
+      "text": "ten",
+      "start": 47.32,
+      "end": 47.552,
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 47.609,
+      "end": 47.858,
+      "line": "recap"
+    },
+    {
+      "text": "two",
+      "start": 47.86,
+      "end": 48.174,
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 48.233,
+      "end": 48.345,
+      "line": "recap"
+    },
+    {
+      "text": "twelve.",
+      "start": 48.403,
+      "end": 48.93,
+      "line": "recap"
+    },
+    {
+      "text": "Remember,",
+      "start": 49.42,
+      "end": 50.112,
+      "line": "recap"
+    },
+    {
+      "text": "making",
+      "start": 50.24,
+      "end": 50.576,
+      "line": "recap"
+    },
+    {
+      "text": "ten",
+      "start": 50.66,
+      "end": 50.913,
+      "line": "recap"
+    },
+    {
+      "text": "helps",
+      "start": 50.969,
+      "end": 51.217,
+      "line": "recap"
+    },
+    {
+      "text": "us",
+      "start": 51.245,
+      "end": 51.39,
+      "line": "recap"
+    },
+    {
+      "text": "add",
+      "start": 51.43,
+      "end": 51.698,
+      "line": "recap"
+    },
+    {
+      "text": "numbers",
+      "start": 51.749,
+      "end": 52.14,
+      "line": "recap"
+    },
+    {
+      "text": "more",
+      "start": 52.196,
+      "end": 52.408,
+      "line": "recap"
+    },
+    {
+      "text": "easily!",
+      "start": 52.45,
+      "end": 53.08,
+      "line": "recap"
+    }
+  ],
+  "captions": {
+    "srt": "vo.srt",
+    "transcript": "vo.words.json",
+    "cues": 24
+  },
+  "build_seconds": 244.06,
+  "lexicon": [
+    "showtime:lib/st/voice/lexicon.json"
+  ],
+  "fit": {
+    "target": 54.0,
+    "before": 49.414,
+    "speed_factor": 0.862,
+    "pauses_trimmed": 0.204,
+    "tail_padded": 0.0,
+    "over": 0.0,
+    "under": 0.0,
+    "cut_words": 0,
+    "add_words": 0,
+    "tolerance": 0.54,
+    "words": 129,
+    "wps": 2.62,
+    "max_speed": 0.862,
+    "result": 54.001
+  },
+  "readback": {
+    "file": "readback.json",
+    "summary": "read-back skipped: the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+    "suspects": [],
+    "skipped": "the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+    "seconds": 0.0
+  }
+}

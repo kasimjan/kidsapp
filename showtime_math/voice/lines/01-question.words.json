@@ -1,0 +1,116 @@
+{
+  "source": "01-question.wav",
+  "duration": 5.959,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Mia",
+      "start": 0.03,
+      "end": 0.322,
+      "type": "word"
+    },
+    {
+      "text": "has",
+      "start": 0.383,
+      "end": 0.543,
+      "type": "word"
+    },
+    {
+      "text": "seven",
+      "start": 0.626,
+      "end": 0.907,
+      "type": "word"
+    },
+    {
+      "text": "apples.",
+      "start": 0.967,
+      "end": 1.46,
+      "type": "word"
+    },
+    {
+      "text": "She",
+      "start": 1.74,
+      "end": 1.868,
+      "type": "word"
+    },
+    {
+      "text": "gives",
+      "start": 1.902,
+      "end": 2.122,
+      "type": "word"
+    },
+    {
+      "text": "three",
+      "start": 2.18,
+      "end": 2.412,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 2.475,
+      "end": 2.8,
+      "type": "word"
+    },
+    {
+      "text": "to",
+      "start": 2.81,
+      "end": 2.906,
+      "type": "word"
+    },
+    {
+      "text": "her",
+      "start": 2.936,
+      "end": 3.019,
+      "type": "word"
+    },
+    {
+      "text": "friend.",
+      "start": 3.078,
+      "end": 3.44,
+      "type": "word"
+    },
+    {
+      "text": "How",
+      "start": 3.74,
+      "end": 3.912,
+      "type": "word"
+    },
+    {
+      "text": "many",
+      "start": 3.938,
+      "end": 4.122,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 4.198,
+      "end": 4.524,
+      "type": "word"
+    },
+    {
+      "text": "does",
+      "start": 4.572,
+      "end": 4.713,
+      "type": "word"
+    },
+    {
+      "text": "Mia",
+      "start": 4.76,
+      "end": 4.924,
+      "type": "word"
+    },
+    {
+      "text": "have",
+      "start": 4.971,
+      "end": 5.119,
+      "type": "word"
+    },
+    {
+      "text": "left?",
+      "start": 5.169,
+      "end": 5.539,
+      "type": "word"
+    }
+  ]
+}

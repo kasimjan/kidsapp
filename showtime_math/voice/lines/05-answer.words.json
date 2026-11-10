@@ -1,0 +1,86 @@
+{
+  "source": "05-answer.wav",
+  "duration": 4.835,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Seven",
+      "start": 0.04,
+      "end": 0.393,
+      "type": "word"
+    },
+    {
+      "text": "take",
+      "start": 0.442,
+      "end": 0.596,
+      "type": "word"
+    },
+    {
+      "text": "away",
+      "start": 0.625,
+      "end": 0.843,
+      "type": "word"
+    },
+    {
+      "text": "three",
+      "start": 0.915,
+      "end": 1.097,
+      "type": "word"
+    },
+    {
+      "text": "is",
+      "start": 1.131,
+      "end": 1.23,
+      "type": "word"
+    },
+    {
+      "text": "four.",
+      "start": 1.28,
+      "end": 1.64,
+      "type": "word"
+    },
+    {
+      "text": "Mia",
+      "start": 1.89,
+      "end": 2.119,
+      "type": "word"
+    },
+    {
+      "text": "has",
+      "start": 2.168,
+      "end": 2.309,
+      "type": "word"
+    },
+    {
+      "text": "four",
+      "start": 2.376,
+      "end": 2.581,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 2.638,
+      "end": 2.955,
+      "type": "word"
+    },
+    {
+      "text": "left.",
+      "start": 3.004,
+      "end": 3.42,
+      "type": "word"
+    },
+    {
+      "text": "Great",
+      "start": 3.73,
+      "end": 3.921,
+      "type": "word"
+    },
+    {
+      "text": "job!",
+      "start": 3.971,
+      "end": 4.425,
+      "type": "word"
+    }
+  ]
+}

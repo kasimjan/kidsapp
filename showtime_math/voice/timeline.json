@@ -1,0 +1,897 @@
+{
+  "version": 1,
+  "file": "vo.wav",
+  "sample_rate": 48000,
+  "duration": 23.589,
+  "lead_in": 0.0,
+  "tail": 0.6,
+  "loudness": -16.12,
+  "script": "../narration.md",
+  "lines": [
+    {
+      "id": "question",
+      "index": 1,
+      "text": "Mia has seven apples. She gives three apples to her friend. How many apples does Mia have left?",
+      "source_text": "Mia has seven apples. She gives three apples to her friend. How many apples does Mia have left?",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 1.0,
+      "style": "neutral",
+      "start": 0.0,
+      "end": 5.959,
+      "duration": 5.959,
+      "speech_start": 0.03,
+      "speech_end": 5.539,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 0.0,
+        "end": 6.309,
+        "duration": 6.309
+      },
+      "file": "lines/01-question.wav",
+      "timing": "exact",
+      "wps": 3.267,
+      "words": [
+        {
+          "text": "Mia",
+          "start": 0.03,
+          "end": 0.322,
+          "line": "question"
+        },
+        {
+          "text": "has",
+          "start": 0.383,
+          "end": 0.543,
+          "line": "question"
+        },
+        {
+          "text": "seven",
+          "start": 0.626,
+          "end": 0.907,
+          "line": "question"
+        },
+        {
+          "text": "apples.",
+          "start": 0.967,
+          "end": 1.46,
+          "line": "question"
+        },
+        {
+          "text": "She",
+          "start": 1.74,
+          "end": 1.868,
+          "line": "question"
+        },
+        {
+          "text": "gives",
+          "start": 1.902,
+          "end": 2.122,
+          "line": "question"
+        },
+        {
+          "text": "three",
+          "start": 2.18,
+          "end": 2.412,
+          "line": "question"
+        },
+        {
+          "text": "apples",
+          "start": 2.475,
+          "end": 2.8,
+          "line": "question"
+        },
+        {
+          "text": "to",
+          "start": 2.81,
+          "end": 2.906,
+          "line": "question"
+        },
+        {
+          "text": "her",
+          "start": 2.936,
+          "end": 3.019,
+          "line": "question"
+        },
+        {
+          "text": "friend.",
+          "start": 3.078,
+          "end": 3.44,
+          "line": "question"
+        },
+        {
+          "text": "How",
+          "start": 3.74,
+          "end": 3.912,
+          "line": "question"
+        },
+        {
+          "text": "many",
+          "start": 3.938,
+          "end": 4.122,
+          "line": "question"
+        },
+        {
+          "text": "apples",
+          "start": 4.198,
+          "end": 4.524,
+          "line": "question"
+        },
+        {
+          "text": "does",
+          "start": 4.572,
+          "end": 4.713,
+          "line": "question"
+        },
+        {
+          "text": "Mia",
+          "start": 4.76,
+          "end": 4.924,
+          "line": "question"
+        },
+        {
+          "text": "have",
+          "start": 4.971,
+          "end": 5.119,
+          "line": "question"
+        },
+        {
+          "text": "left?",
+          "start": 5.169,
+          "end": 5.539,
+          "line": "question"
+        }
+      ]
+    },
+    {
+      "id": "counting",
+      "index": 2,
+      "text": "Let's count Mia's apples. One, two, three, four, five, six, seven.",
+      "source_text": "Let's count Mia's apples. One, two, three, four, five, six, seven.",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 1.0,
+      "style": "neutral",
+      "start": 6.309,
+      "end": 10.537,
+      "duration": 4.227,
+      "speech_start": 6.349,
+      "speech_end": 10.146,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 6.309,
+        "end": 10.887,
+        "duration": 4.577
+      },
+      "file": "lines/02-counting.wav",
+      "timing": "exact",
+      "wps": 2.897,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 6.349,
+          "end": 6.561,
+          "line": "counting"
+        },
+        {
+          "text": "count",
+          "start": 6.629,
+          "end": 6.797,
+          "line": "counting"
+        },
+        {
+          "text": "Mia's",
+          "start": 6.83,
+          "end": 7.041,
+          "line": "counting"
+        },
+        {
+          "text": "apples.",
+          "start": 7.102,
+          "end": 7.609,
+          "line": "counting"
+        },
+        {
+          "text": "One,",
+          "start": 7.899,
+          "end": 8.08,
+          "line": "counting"
+        },
+        {
+          "text": "two,",
+          "start": 8.168,
+          "end": 8.323,
+          "line": "counting"
+        },
+        {
+          "text": "three,",
+          "start": 8.398,
+          "end": 8.603,
+          "line": "counting"
+        },
+        {
+          "text": "four,",
+          "start": 8.68,
+          "end": 8.896,
+          "line": "counting"
+        },
+        {
+          "text": "five,",
+          "start": 8.973,
+          "end": 9.254,
+          "line": "counting"
+        },
+        {
+          "text": "six,",
+          "start": 9.329,
+          "end": 9.529,
+          "line": "counting"
+        },
+        {
+          "text": "seven.",
+          "start": 9.722,
+          "end": 10.146,
+          "line": "counting"
+        }
+      ]
+    },
+    {
+      "id": "give",
+      "index": 3,
+      "text": "Now Mia gives three apples away. One, two, three.",
+      "source_text": "Now Mia gives three apples away. One, two, three.",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 1.0,
+      "style": "neutral",
+      "start": 10.887,
+      "end": 14.223,
+      "duration": 3.337,
+      "speech_start": 10.927,
+      "speech_end": 13.824,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 10.887,
+        "end": 14.573,
+        "duration": 3.687
+      },
+      "file": "lines/03-give.wav",
+      "timing": "exact",
+      "wps": 3.107,
+      "words": [
+        {
+          "text": "Now",
+          "start": 10.927,
+          "end": 11.148,
+          "line": "give"
+        },
+        {
+          "text": "Mia",
+          "start": 11.197,
+          "end": 11.386,
+          "line": "give"
+        },
+        {
+          "text": "gives",
+          "start": 11.435,
+          "end": 11.638,
+          "line": "give"
+        },
+        {
+          "text": "three",
+          "start": 11.717,
+          "end": 11.887,
+          "line": "give"
+        },
+        {
+          "text": "apples",
+          "start": 11.937,
+          "end": 12.233,
+          "line": "give"
+        },
+        {
+          "text": "away.",
+          "start": 12.271,
+          "end": 12.677,
+          "line": "give"
+        },
+        {
+          "text": "One,",
+          "start": 12.937,
+          "end": 13.143,
+          "line": "give"
+        },
+        {
+          "text": "two,",
+          "start": 13.235,
+          "end": 13.402,
+          "line": "give"
+        },
+        {
+          "text": "three.",
+          "start": 13.481,
+          "end": 13.824,
+          "line": "give"
+        }
+      ]
+    },
+    {
+      "id": "keep",
+      "index": 4,
+      "text": "Look at the apples that stay. One, two, three, four.",
+      "source_text": "Look at the apples that stay. One, two, three, four.",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 1.0,
+      "style": "neutral",
+      "start": 14.573,
+      "end": 17.805,
+      "duration": 3.231,
+      "speech_start": 14.603,
+      "speech_end": 17.433,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 14.573,
+        "end": 18.155,
+        "duration": 3.581
+      },
+      "file": "lines/04-keep.wav",
+      "timing": "exact",
+      "wps": 3.534,
+      "words": [
+        {
+          "text": "Look",
+          "start": 14.603,
+          "end": 14.745,
+          "line": "keep"
+        },
+        {
+          "text": "at",
+          "start": 14.771,
+          "end": 14.821,
+          "line": "keep"
+        },
+        {
+          "text": "the",
+          "start": 14.846,
+          "end": 14.93,
+          "line": "keep"
+        },
+        {
+          "text": "apples",
+          "start": 15.004,
+          "end": 15.321,
+          "line": "keep"
+        },
+        {
+          "text": "that",
+          "start": 15.361,
+          "end": 15.491,
+          "line": "keep"
+        },
+        {
+          "text": "stay.",
+          "start": 15.541,
+          "end": 15.923,
+          "line": "keep"
+        },
+        {
+          "text": "One,",
+          "start": 16.183,
+          "end": 16.399,
+          "line": "keep"
+        },
+        {
+          "text": "two,",
+          "start": 16.504,
+          "end": 16.7,
+          "line": "keep"
+        },
+        {
+          "text": "three,",
+          "start": 16.779,
+          "end": 16.96,
+          "line": "keep"
+        },
+        {
+          "text": "four.",
+          "start": 17.047,
+          "end": 17.433,
+          "line": "keep"
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "index": 5,
+      "text": "Seven take away three is four. Mia has four apples left. Great job!",
+      "source_text": "Seven take away three is four. Mia has four apples left. Great job!",
+      "voice": "af_heart",
+      "engine": "kokoro",
+      "lang": "en-us",
+      "speed": 1.0,
+      "style": "neutral",
+      "start": 18.155,
+      "end": 22.989,
+      "duration": 4.835,
+      "speech_start": 18.195,
+      "speech_end": 22.58,
+      "pause_after": 0.35,
+      "slot": {
+        "start": 18.155,
+        "end": 23.589,
+        "duration": 5.435
+      },
+      "file": "lines/05-answer.wav",
+      "timing": "exact",
+      "wps": 2.965,
+      "words": [
+        {
+          "text": "Seven",
+          "start": 18.195,
+          "end": 18.548,
+          "line": "answer"
+        },
+        {
+          "text": "take",
+          "start": 18.597,
+          "end": 18.751,
+          "line": "answer"
+        },
+        {
+          "text": "away",
+          "start": 18.78,
+          "end": 18.998,
+          "line": "answer"
+        },
+        {
+          "text": "three",
+          "start": 19.07,
+          "end": 19.252,
+          "line": "answer"
+        },
+        {
+          "text": "is",
+          "start": 19.286,
+          "end": 19.385,
+          "line": "answer"
+        },
+        {
+          "text": "four.",
+          "start": 19.435,
+          "end": 19.795,
+          "line": "answer"
+        },
+        {
+          "text": "Mia",
+          "start": 20.045,
+          "end": 20.274,
+          "line": "answer"
+        },
+        {
+          "text": "has",
+          "start": 20.323,
+          "end": 20.464,
+          "line": "answer"
+        },
+        {
+          "text": "four",
+          "start": 20.531,
+          "end": 20.736,
+          "line": "answer"
+        },
+        {
+          "text": "apples",
+          "start": 20.793,
+          "end": 21.11,
+          "line": "answer"
+        },
+        {
+          "text": "left.",
+          "start": 21.159,
+          "end": 21.575,
+          "line": "answer"
+        },
+        {
+          "text": "Great",
+          "start": 21.885,
+          "end": 22.076,
+          "line": "answer"
+        },
+        {
+          "text": "job!",
+          "start": 22.126,
+          "end": 22.58,
+          "line": "answer"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "text": "Mia",
+      "start": 0.03,
+      "end": 0.322,
+      "line": "question"
+    },
+    {
+      "text": "has",
+      "start": 0.383,
+      "end": 0.543,
+      "line": "question"
+    },
+    {
+      "text": "seven",
+      "start": 0.626,
+      "end": 0.907,
+      "line": "question"
+    },
+    {
+      "text": "apples.",
+      "start": 0.967,
+      "end": 1.46,
+      "line": "question"
+    },
+    {
+      "text": "She",
+      "start": 1.74,
+      "end": 1.868,
+      "line": "question"
+    },
+    {
+      "text": "gives",
+      "start": 1.902,
+      "end": 2.122,
+      "line": "question"
+    },
+    {
+      "text": "three",
+      "start": 2.18,
+      "end": 2.412,
+      "line": "question"
+    },
+    {
+      "text": "apples",
+      "start": 2.475,
+      "end": 2.8,
+      "line": "question"
+    },
+    {
+      "text": "to",
+      "start": 2.81,
+      "end": 2.906,
+      "line": "question"
+    },
+    {
+      "text": "her",
+      "start": 2.936,
+      "end": 3.019,
+      "line": "question"
+    },
+    {
+      "text": "friend.",
+      "start": 3.078,
+      "end": 3.44,
+      "line": "question"
+    },
+    {
+      "text": "How",
+      "start": 3.74,
+      "end": 3.912,
+      "line": "question"
+    },
+    {
+      "text": "many",
+      "start": 3.938,
+      "end": 4.122,
+      "line": "question"
+    },
+    {
+      "text": "apples",
+      "start": 4.198,
+      "end": 4.524,
+      "line": "question"
+    },
+    {
+      "text": "does",
+      "start": 4.572,
+      "end": 4.713,
+      "line": "question"
+    },
+    {
+      "text": "Mia",
+      "start": 4.76,
+      "end": 4.924,
+      "line": "question"
+    },
+    {
+      "text": "have",
+      "start": 4.971,
+      "end": 5.119,
+      "line": "question"
+    },
+    {
+      "text": "left?",
+      "start": 5.169,
+      "end": 5.539,
+      "line": "question"
+    },
+    {
+      "text": "Let's",
+      "start": 6.349,
+      "end": 6.561,
+      "line": "counting"
+    },
+    {
+      "text": "count",
+      "start": 6.629,
+      "end": 6.797,
+      "line": "counting"
+    },
+    {
+      "text": "Mia's",
+      "start": 6.83,
+      "end": 7.041,
+      "line": "counting"
+    },
+    {
+      "text": "apples.",
+      "start": 7.102,
+      "end": 7.609,
+      "line": "counting"
+    },
+    {
+      "text": "One,",
+      "start": 7.899,
+      "end": 8.08,
+      "line": "counting"
+    },
+    {
+      "text": "two,",
+      "start": 8.168,
+      "end": 8.323,
+      "line": "counting"
+    },
+    {
+      "text": "three,",
+      "start": 8.398,
+      "end": 8.603,
+      "line": "counting"
+    },
+    {
+      "text": "four,",
+      "start": 8.68,
+      "end": 8.896,
+      "line": "counting"
+    },
+    {
+      "text": "five,",
+      "start": 8.973,
+      "end": 9.254,
+      "line": "counting"
+    },
+    {
+      "text": "six,",
+      "start": 9.329,
+      "end": 9.529,
+      "line": "counting"
+    },
+    {
+      "text": "seven.",
+      "start": 9.722,
+      "end": 10.146,
+      "line": "counting"
+    },
+    {
+      "text": "Now",
+      "start": 10.927,
+      "end": 11.148,
+      "line": "give"
+    },
+    {
+      "text": "Mia",
+      "start": 11.197,
+      "end": 11.386,
+      "line": "give"
+    },
+    {
+      "text": "gives",
+      "start": 11.435,
+      "end": 11.638,
+      "line": "give"
+    },
+    {
+      "text": "three",
+      "start": 11.717,
+      "end": 11.887,
+      "line": "give"
+    },
+    {
+      "text": "apples",
+      "start": 11.937,
+      "end": 12.233,
+      "line": "give"
+    },
+    {
+      "text": "away.",
+      "start": 12.271,
+      "end": 12.677,
+      "line": "give"
+    },
+    {
+      "text": "One,",
+      "start": 12.937,
+      "end": 13.143,
+      "line": "give"
+    },
+    {
+      "text": "two,",
+      "start": 13.235,
+      "end": 13.402,
+      "line": "give"
+    },
+    {
+      "text": "three.",
+      "start": 13.481,
+      "end": 13.824,
+      "line": "give"
+    },
+    {
+      "text": "Look",
+      "start": 14.603,
+      "end": 14.745,
+      "line": "keep"
+    },
+    {
+      "text": "at",
+      "start": 14.771,
+      "end": 14.821,
+      "line": "keep"
+    },
+    {
+      "text": "the",
+      "start": 14.846,
+      "end": 14.93,
+      "line": "keep"
+    },
+    {
+      "text": "apples",
+      "start": 15.004,
+      "end": 15.321,
+      "line": "keep"
+    },
+    {
+      "text": "that",
+      "start": 15.361,
+      "end": 15.491,
+      "line": "keep"
+    },
+    {
+      "text": "stay.",
+      "start": 15.541,
+      "end": 15.923,
+      "line": "keep"
+    },
+    {
+      "text": "One,",
+      "start": 16.183,
+      "end": 16.399,
+      "line": "keep"
+    },
+    {
+      "text": "two,",
+      "start": 16.504,
+      "end": 16.7,
+      "line": "keep"
+    },
+    {
+      "text": "three,",
+      "start": 16.779,
+      "end": 16.96,
+      "line": "keep"
+    },
+    {
+      "text": "four.",
+      "start": 17.047,
+      "end": 17.433,
+      "line": "keep"
+    },
+    {
+      "text": "Seven",
+      "start": 18.195,
+      "end": 18.548,
+      "line": "answer"
+    },
+    {
+      "text": "take",
+      "start": 18.597,
+      "end": 18.751,
+      "line": "answer"
+    },
+    {
+      "text": "away",
+      "start": 18.78,
+      "end": 18.998,
+      "line": "answer"
+    },
+    {
+      "text": "three",
+      "start": 19.07,
+      "end": 19.252,
+      "line": "answer"
+    },
+    {
+      "text": "is",
+      "start": 19.286,
+      "end": 19.385,
+      "line": "answer"
+    },
+    {
+      "text": "four.",
+      "start": 19.435,
+      "end": 19.795,
+      "line": "answer"
+    },
+    {
+      "text": "Mia",
+      "start": 20.045,
+      "end": 20.274,
+      "line": "answer"
+    },
+    {
+      "text": "has",
+      "start": 20.323,
+      "end": 20.464,
+      "line": "answer"
+    },
+    {
+      "text": "four",
+      "start": 20.531,
+      "end": 20.736,
+      "line": "answer"
+    },
+    {
+      "text": "apples",
+      "start": 20.793,
+      "end": 21.11,
+      "line": "answer"
+    },
+    {
+      "text": "left.",
+      "start": 21.159,
+      "end": 21.575,
+      "line": "answer"
+    },
+    {
+      "text": "Great",
+      "start": 21.885,
+      "end": 22.076,
+      "line": "answer"
+    },
+    {
+      "text": "job!",
+      "start": 22.126,
+      "end": 22.58,
+      "line": "answer"
+    }
+  ],
+  "captions": {
+    "srt": "vo.srt",
+    "transcript": "vo.words.json",
+    "cues": 12
+  },
+  "build_seconds": 1.71,
+  "lexicon": [
+    "showtime:lib/st/voice/lexicon.json"
+  ],
+  "readback": {
+    "file": "readback.json",
+    "summary": "read-back skipped: the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+    "suspects": [],
+    "skipped": "the speech recognizer is not installed (showtime setup --fetch parakeet-tdt-0.6b-v3-int8, about 490 MB)",
+    "seconds": 0.0
+  }
+}

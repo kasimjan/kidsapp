@@ -1,0 +1,911 @@
+{
+  "source": "vo.wav",
+  "duration": 54.001,
+  "language": "en",
+  "model": "showtime-voice",
+  "words": [
+    {
+      "text": "Hello,",
+      "start": 0.03,
+      "end": 0.517,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "math",
+      "start": 0.608,
+      "end": 0.855,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "explorers!",
+      "start": 0.86,
+      "end": 1.69,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "Today",
+      "start": 1.97,
+      "end": 2.253,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "we're",
+      "start": 2.288,
+      "end": 2.385,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "solving",
+      "start": 2.441,
+      "end": 2.841,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "seven",
+      "start": 2.936,
+      "end": 3.251,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "plus",
+      "start": 3.307,
+      "end": 3.561,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "five.",
+      "start": 3.618,
+      "end": 4.09,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "Are",
+      "start": 4.39,
+      "end": 4.472,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "you",
+      "start": 4.527,
+      "end": 4.616,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "ready?",
+      "start": 4.672,
+      "end": 5.06,
+      "type": "word",
+      "line": "hook"
+    },
+    {
+      "text": "First,",
+      "start": 5.772,
+      "end": 6.122,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "we",
+      "start": 6.312,
+      "end": 6.372,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "have",
+      "start": 6.411,
+      "end": 6.575,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "seven",
+      "start": 6.666,
+      "end": 6.987,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "delicious",
+      "start": 7.042,
+      "end": 7.52,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "red",
+      "start": 7.575,
+      "end": 7.724,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "apples.",
+      "start": 7.779,
+      "end": 8.412,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "Let's",
+      "start": 8.702,
+      "end": 8.903,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "count",
+      "start": 8.932,
+      "end": 9.216,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "them!",
+      "start": 9.258,
+      "end": 9.522,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "One,",
+      "start": 9.962,
+      "end": 10.2,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "two,",
+      "start": 10.309,
+      "end": 10.604,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "three,",
+      "start": 10.732,
+      "end": 11.02,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "four,",
+      "start": 11.127,
+      "end": 11.419,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "five,",
+      "start": 11.527,
+      "end": 11.887,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "six,",
+      "start": 12.048,
+      "end": 12.336,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "seven.",
+      "start": 12.442,
+      "end": 12.975,
+      "type": "word",
+      "line": "sevens"
+    },
+    {
+      "text": "Now,",
+      "start": 13.727,
+      "end": 14.08,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "let's",
+      "start": 14.16,
+      "end": 14.376,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "add",
+      "start": 14.429,
+      "end": 14.633,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "five",
+      "start": 14.708,
+      "end": 14.996,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "more",
+      "start": 15.041,
+      "end": 15.216,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "apples.",
+      "start": 15.273,
+      "end": 15.837,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "Here",
+      "start": 16.227,
+      "end": 16.446,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "come",
+      "start": 16.477,
+      "end": 16.631,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "the",
+      "start": 16.66,
+      "end": 16.716,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "green",
+      "start": 16.772,
+      "end": 17.035,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "ones!",
+      "start": 17.083,
+      "end": 17.497,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "One,",
+      "start": 17.907,
+      "end": 18.188,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "two,",
+      "start": 18.421,
+      "end": 18.695,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "three,",
+      "start": 18.827,
+      "end": 19.125,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "four,",
+      "start": 19.226,
+      "end": 19.499,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "five.",
+      "start": 19.597,
+      "end": 20.287,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "How",
+      "start": 20.497,
+      "end": 20.589,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "many",
+      "start": 20.617,
+      "end": 20.818,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "apples",
+      "start": 20.927,
+      "end": 21.259,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "do",
+      "start": 21.295,
+      "end": 21.407,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "we",
+      "start": 21.434,
+      "end": 21.518,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "have",
+      "start": 21.546,
+      "end": 21.649,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "altogether?",
+      "start": 21.68,
+      "end": 22.358,
+      "type": "word",
+      "line": "fives"
+    },
+    {
+      "text": "Seven",
+      "start": 23.098,
+      "end": 23.474,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "needs",
+      "start": 23.528,
+      "end": 23.808,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "three",
+      "start": 23.868,
+      "end": 24.077,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "more",
+      "start": 24.132,
+      "end": 24.326,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "to",
+      "start": 24.38,
+      "end": 24.435,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "make",
+      "start": 24.463,
+      "end": 24.659,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "ten.",
+      "start": 24.723,
+      "end": 25.218,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "We",
+      "start": 25.428,
+      "end": 25.501,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "take",
+      "start": 25.556,
+      "end": 25.773,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "three",
+      "start": 25.857,
+      "end": 26.073,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "from",
+      "start": 26.119,
+      "end": 26.229,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "our",
+      "start": 26.256,
+      "end": 26.366,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "five",
+      "start": 26.415,
+      "end": 26.651,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "apples.",
+      "start": 26.706,
+      "end": 27.218,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "Now",
+      "start": 27.648,
+      "end": 27.919,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "we",
+      "start": 27.966,
+      "end": 28.05,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "have",
+      "start": 28.101,
+      "end": 28.271,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "ten,",
+      "start": 28.318,
+      "end": 28.741,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "with",
+      "start": 28.868,
+      "end": 29.056,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "two",
+      "start": 29.068,
+      "end": 29.285,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "left",
+      "start": 29.338,
+      "end": 29.56,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "over.",
+      "start": 29.588,
+      "end": 29.948,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "Ten",
+      "start": 30.428,
+      "end": 30.801,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "plus",
+      "start": 30.862,
+      "end": 31.112,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "two",
+      "start": 31.148,
+      "end": 31.387,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "equals",
+      "start": 31.441,
+      "end": 31.81,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "twelve!",
+      "start": 31.828,
+      "end": 32.368,
+      "type": "word",
+      "line": "tens"
+    },
+    {
+      "text": "Great",
+      "start": 33.119,
+      "end": 33.396,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "job!",
+      "start": 33.451,
+      "end": 33.936,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "Seven",
+      "start": 34.209,
+      "end": 34.569,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "plus",
+      "start": 34.624,
+      "end": 34.862,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "five",
+      "start": 34.917,
+      "end": 35.197,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "equals",
+      "start": 35.242,
+      "end": 35.596,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "twelve!",
+      "start": 35.629,
+      "end": 36.189,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "Look",
+      "start": 36.519,
+      "end": 36.715,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "at",
+      "start": 36.763,
+      "end": 36.87,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "all",
+      "start": 36.926,
+      "end": 37.11,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "twelve",
+      "start": 37.166,
+      "end": 37.453,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "apples.",
+      "start": 37.51,
+      "end": 38.009,
+      "type": "word",
+      "line": "win"
+    },
+    {
+      "text": "Let's",
+      "start": 38.78,
+      "end": 39.045,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "remember",
+      "start": 39.094,
+      "end": 39.48,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "how",
+      "start": 39.554,
+      "end": 39.749,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "we",
+      "start": 39.799,
+      "end": 39.884,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "did",
+      "start": 39.94,
+      "end": 40.107,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "it.",
+      "start": 40.164,
+      "end": 40.33,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "Seven",
+      "start": 40.88,
+      "end": 41.227,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 41.283,
+      "end": 41.529,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "five",
+      "start": 41.585,
+      "end": 41.981,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 42.037,
+      "end": 42.139,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "the",
+      "start": 42.18,
+      "end": 42.257,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "same",
+      "start": 42.341,
+      "end": 42.693,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "as",
+      "start": 42.768,
+      "end": 42.874,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "seven",
+      "start": 42.982,
+      "end": 43.317,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 43.373,
+      "end": 43.636,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "three",
+      "start": 43.692,
+      "end": 43.91,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 43.967,
+      "end": 44.209,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "two.",
+      "start": 44.286,
+      "end": 44.54,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "Seven",
+      "start": 45.19,
+      "end": 45.497,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 45.553,
+      "end": 45.814,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "three",
+      "start": 45.874,
+      "end": 46.152,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 46.216,
+      "end": 46.329,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "ten,",
+      "start": 46.414,
+      "end": 46.991,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "and",
+      "start": 47.08,
+      "end": 47.234,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "ten",
+      "start": 47.32,
+      "end": 47.552,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "plus",
+      "start": 47.609,
+      "end": 47.858,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "two",
+      "start": 47.86,
+      "end": 48.174,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "is",
+      "start": 48.233,
+      "end": 48.345,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "twelve.",
+      "start": 48.403,
+      "end": 48.93,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "Remember,",
+      "start": 49.42,
+      "end": 50.112,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "making",
+      "start": 50.24,
+      "end": 50.576,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "ten",
+      "start": 50.66,
+      "end": 50.913,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "helps",
+      "start": 50.969,
+      "end": 51.217,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "us",
+      "start": 51.245,
+      "end": 51.39,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "add",
+      "start": 51.43,
+      "end": 51.698,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "numbers",
+      "start": 51.749,
+      "end": 52.14,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "more",
+      "start": 52.196,
+      "end": 52.408,
+      "type": "word",
+      "line": "recap"
+    },
+    {
+      "text": "easily!",
+      "start": 52.45,
+      "end": 53.08,
+      "type": "word",
+      "line": "recap"
+    }
+  ]
+}

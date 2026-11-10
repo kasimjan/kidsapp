@@ -1,0 +1,62 @@
+{
+  "source": "03-give.wav",
+  "duration": 3.337,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "Now",
+      "start": 0.04,
+      "end": 0.261,
+      "type": "word"
+    },
+    {
+      "text": "Mia",
+      "start": 0.31,
+      "end": 0.499,
+      "type": "word"
+    },
+    {
+      "text": "gives",
+      "start": 0.548,
+      "end": 0.751,
+      "type": "word"
+    },
+    {
+      "text": "three",
+      "start": 0.83,
+      "end": 1.0,
+      "type": "word"
+    },
+    {
+      "text": "apples",
+      "start": 1.05,
+      "end": 1.346,
+      "type": "word"
+    },
+    {
+      "text": "away.",
+      "start": 1.384,
+      "end": 1.79,
+      "type": "word"
+    },
+    {
+      "text": "One,",
+      "start": 2.05,
+      "end": 2.256,
+      "type": "word"
+    },
+    {
+      "text": "two,",
+      "start": 2.348,
+      "end": 2.515,
+      "type": "word"
+    },
+    {
+      "text": "three.",
+      "start": 2.594,
+      "end": 2.937,
+      "type": "word"
+    }
+  ]
+}

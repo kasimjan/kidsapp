@@ -1,0 +1,110 @@
+{
+  "source": "02-sevens.wav",
+  "duration": 7.603,
+  "language": "en",
+  "model": "kokoro-v1.0-timestamped-fp16.onnx",
+  "words": [
+    {
+      "text": "First,",
+      "start": 0.02,
+      "end": 0.37,
+      "type": "word"
+    },
+    {
+      "text": "we",
+      "start": 0.56,
+      "end": 0.62,
+      "type": "word"
+    },
+    {
+      "text": "have",
+      "start": 0.659,
+      "end": 0.823,
+      "type": "word"
+    },
+    {
+      "text": "seven",
+      "start": 0.914,
+      "end": 1.235,
+      "type": "word"
+    },
+    {
+      "text": "delicious",
+      "start": 1.29,
+      "end": 1.768,
+      "type": "word"
+    },
+    {
+      "text": "red",
+      "start": 1.823,
+      "end": 1.972,
+      "type": "word"
+    },
+    {
+      "text": "apples.",
+      "start": 2.027,
+      "end": 2.66,
+      "type": "word"
+    },
+    {
+      "text": "Let's",
+      "start": 2.95,
+      "end": 3.151,
+      "type": "word"
+    },
+    {
+      "text": "count",
+      "start": 3.18,
+      "end": 3.464,
+      "type": "word"
+    },
+    {
+      "text": "them!",
+      "start": 3.506,
+      "end": 3.77,
+      "type": "word"
+    },
+    {
+      "text": "One,",
+      "start": 4.21,
+      "end": 4.448,
+      "type": "word"
+    },
+    {
+      "text": "two,",
+      "start": 4.557,
+      "end": 4.852,
+      "type": "word"
+    },
+    {
+      "text": "three,",
+      "start": 4.98,
+      "end": 5.268,
+      "type": "word"
+    },
+    {
+      "text": "four,",
+      "start": 5.375,
+      "end": 5.667,
+      "type": "word"
+    },
+    {
+      "text": "five,",
+      "start": 5.775,
+      "end": 6.135,
+      "type": "word"
+    },
+    {
+      "text": "six,",
+      "start": 6.296,
+      "end": 6.584,
+      "type": "word"
+    },
+    {
+      "text": "seven.",
+      "start": 6.69,
+      "end": 7.223,
+      "type": "word"
+    }
+  ]
+}

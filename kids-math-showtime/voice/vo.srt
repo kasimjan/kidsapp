@@ -1,0 +1,102 @@
+1
+00:00:00,030 --> 00:00:01,690
+Hello, math explorers!
+
+2
+00:00:01,970 --> 00:00:04,090
+Today we're solving
+seven plus five.
+
+3
+00:00:04,390 --> 00:00:05,110
+Are you ready?
+
+4
+00:00:05,772 --> 00:00:08,412
+First, we have seven
+delicious red apples.
+
+5
+00:00:08,702 --> 00:00:09,572
+Let's count them!
+
+6
+00:00:09,962 --> 00:00:12,975
+One, two, three, four,
+five, six, seven.
+
+7
+00:00:13,727 --> 00:00:15,837
+Now, let's add five more apples.
+
+8
+00:00:16,227 --> 00:00:17,497
+Here come the green ones!
+
+9
+00:00:17,907 --> 00:00:20,287
+One, two, three, four, five.
+
+10
+00:00:20,497 --> 00:00:22,417
+How many apples do
+we have altogether?
+
+11
+00:00:23,098 --> 00:00:25,218
+Seven needs three
+more to make ten.
+
+12
+00:00:25,428 --> 00:00:27,218
+We take three from
+our five apples.
+
+13
+00:00:27,648 --> 00:00:29,948
+Now we have ten,
+with two left over.
+
+14
+00:00:30,428 --> 00:00:32,368
+Ten plus two equals twelve!
+
+15
+00:00:33,119 --> 00:00:33,936
+Great job!
+
+16
+00:00:34,209 --> 00:00:36,189
+Seven plus five equals twelve!
+
+17
+00:00:36,519 --> 00:00:38,009
+Look at all twelve apples.
+
+18
+00:00:38,780 --> 00:00:40,330
+Let's remember how we did it.
+
+19
+00:00:40,880 --> 00:00:42,693
+Seven plus five is the same
+
+20
+00:00:42,768 --> 00:00:44,540
+as seven plus three plus two.
+
+21
+00:00:45,190 --> 00:00:46,991
+Seven plus three is ten,
+
+22
+00:00:47,080 --> 00:00:48,930
+and ten plus two is twelve.
+
+23
+00:00:49,420 --> 00:00:51,217
+Remember, making ten helps
+
+24
+00:00:51,245 --> 00:00:53,080
+us add numbers more easily!

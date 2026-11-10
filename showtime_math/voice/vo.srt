@@ -1,0 +1,50 @@
+1
+00:00:00,030 --> 00:00:01,460
+Mia has seven apples.
+
+2
+00:00:01,740 --> 00:00:03,610
+She gives three
+apples to her friend.
+
+3
+00:00:03,740 --> 00:00:05,539
+How many apples
+does Mia have left?
+
+4
+00:00:06,349 --> 00:00:07,619
+Let's count Mia's apples.
+
+5
+00:00:07,899 --> 00:00:10,146
+One, two, three, four,
+five, six, seven.
+
+6
+00:00:10,927 --> 00:00:12,677
+Now Mia gives three apples away.
+
+7
+00:00:12,937 --> 00:00:13,824
+One, two, three.
+
+8
+00:00:14,603 --> 00:00:16,073
+Look at the apples that stay.
+
+9
+00:00:16,183 --> 00:00:17,433
+One, two, three, four.
+
+10
+00:00:18,195 --> 00:00:19,795
+Seven take away three is four.
+
+11
+00:00:20,045 --> 00:00:21,575
+Mia has four apples left.
+
+12
+00:00:21,885 --> 00:00:22,580
+Great job!
