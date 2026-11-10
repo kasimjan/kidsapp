@@ -6,9 +6,6 @@ __pycache__/
 references/
 media/
 *.wav
-output/*.mp4
-videos/
 output/lessons/
 build/
-*.mp4
 *.pyc
